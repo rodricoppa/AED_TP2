@@ -1,3 +1,3 @@
 # AED_TP2
 
-TP2: Implementación y diseño de estructuras 
+TP2: Diseño e implementación de estructuras de datos
